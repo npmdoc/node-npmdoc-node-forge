@@ -1,4 +1,7 @@
-# api documentation for  [node-forge (v0.7.1)](https://github.com/digitalbazaar/forge)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-forge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-forge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-forge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-forge)
+# npmdoc-node-forge
+
+#### basic api documentation for  [node-forge (v0.7.1)](https://github.com/digitalbazaar/forge)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-forge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-forge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-forge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-forge)
+
 #### JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.
 
 [![NPM](https://nodei.co/npm/node-forge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-forge)
@@ -158,7 +161,8 @@
         "test-server-webid": "node tests/websockets/server-webid.js",
         "test-server-ws": "node tests/websockets/server-ws.js"
     },
-    "version": "0.7.1"
+    "version": "0.7.1",
+    "bin": {}
 }
 ```
 
